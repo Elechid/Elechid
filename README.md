@@ -15,6 +15,7 @@ Elechid is a Hong Kong retailer specialising in audiovisual and smart home produ
 | Soundbar 擺位檢查器 / Soundbar placement checker | [開啟工具](https://elechid.github.io/soundbar-placement-checker/zh.html) | [Open tool](https://elechid.github.io/soundbar-placement-checker/) | [GitHub](https://github.com/Elechid/soundbar-placement-checker) |
 | PoE 供電預算計算器 / PoE power budget calculator | [開啟工具](https://elechid.github.io/poe-power-budget-calculator/zh.html) | [Open tool](https://elechid.github.io/poe-power-budget-calculator/) | [GitHub](https://github.com/Elechid/poe-power-budget-calculator) |
 | 智能門鎖門身量度清單 / Smart lock measurement checklist | [開啟工具](https://elechid.github.io/smart-lock-measurement-checklist/zh.html) | [Open tool](https://elechid.github.io/smart-lock-measurement-checklist/) | [GitHub](https://github.com/Elechid/smart-lock-measurement-checklist) |
+| CCTV 加購相容查詢器 / CCTV accessory compatibility checker | [開啟工具](https://elechid.github.io/cctv-accessory-compatibility-checker/zh.html) | [Open tool](https://elechid.github.io/cctv-accessory-compatibility-checker/) | [GitHub](https://github.com/Elechid/cctv-accessory-compatibility-checker) |
 
 [Elechid 音立資料集（Zenodo） / Elechid datasets on Zenodo](https://zenodo.org/communities/elechid/)
 
