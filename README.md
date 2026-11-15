@@ -18,6 +18,7 @@ Elechid is a Hong Kong retailer specialising in audiovisual and smart home produ
 | CCTV 加購相容查詢器 / CCTV accessory compatibility checker | [開啟工具](https://elechid.github.io/cctv-accessory-compatibility-checker/zh.html) | [Open tool](https://elechid.github.io/cctv-accessory-compatibility-checker/) | [GitHub](https://github.com/Elechid/cctv-accessory-compatibility-checker) |
 | 電子貓眼門孔檢查器 / Smart peephole fit checker | [開啟工具](https://elechid.github.io/smart-peephole-fit-checker/zh.html) | [Open tool](https://elechid.github.io/smart-peephole-fit-checker/) | [GitHub](https://github.com/Elechid/smart-peephole-fit-checker) |
 | 香港電視送裝費估算器 / Hong Kong TV delivery and installation fee estimator | [開啟工具](https://elechid.github.io/hk-tv-installation-fee-estimator/zh.html) | [Open tool](https://elechid.github.io/hk-tv-installation-fee-estimator/) | [GitHub](https://github.com/Elechid/hk-tv-installation-fee-estimator) |
+| Soundbar 盒內配件對照表 / Soundbar box contents comparison | [開啟工具](https://elechid.github.io/soundbar-box-contents-comparison/zh.html) | [Open tool](https://elechid.github.io/soundbar-box-contents-comparison/) | [GitHub](https://github.com/Elechid/soundbar-box-contents-comparison) |
 
 [Elechid 音立資料集（Zenodo） / Elechid datasets on Zenodo](https://zenodo.org/communities/elechid/)
 
