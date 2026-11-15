@@ -10,5 +10,7 @@ Elechid is a Hong Kong retailer specialising in audiovisual and smart home produ
 | CCTV 錄影容量計算器 / CCTV storage calculator | [開始計算](https://elechid.github.io/cctv-storage-calculator/?lang=zh) | [Open calculator](https://elechid.github.io/cctv-storage-calculator/) | [GitHub](https://github.com/Elechid/cctv-storage-calculator) |
 | 4G 攝影機 SIM 用量估算器 / 4G camera SIM data calculator | [開始計算](https://elechid.github.io/4g-camera-data-calculator/?lang=zh) | [Open calculator](https://elechid.github.io/4g-camera-data-calculator/) | [GitHub](https://github.com/Elechid/4g-camera-data-calculator) |
 
+[Elechid 音立資料集（Zenodo） / Elechid datasets on Zenodo](https://zenodo.org/communities/elechid/)
+
 [Elechid 音立官網](https://elechid.com/) · [Elechid official website](https://elechid.com/en/)
 
