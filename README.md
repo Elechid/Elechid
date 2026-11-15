@@ -12,5 +12,7 @@ Elechid is a Hong Kong retailer specialising in audiovisual and smart home produ
 
 [Elechid 音立資料集（Zenodo） / Elechid datasets on Zenodo](https://zenodo.org/communities/elechid/)
 
+[HDMI 逐口對照表 / HDMI Port Matrix（Hugging Face）](https://huggingface.co/datasets/elechid/tv-hdmi-port-matrix)
+
 [Elechid 音立官網](https://elechid.com/) · [Elechid official website](https://elechid.com/en/)
 
